@@ -1,4 +1,4 @@
-# 📦 The Beginner-Friendly Burp Suite Professional Trial Extension Guide
+# 📦 Enterprise Sandbox Isolation Playbook
 
 ## 💡 The Core Secret
 When a software company tracks trials, their system checks three things to see if you are the same person:
